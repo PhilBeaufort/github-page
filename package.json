@@ -3,7 +3,7 @@
   "private": true,
   "version": "1.0.0",
   "type": "module",
-  "homepage": "https://domain/repo/",
+  "homepage": "https://philbeaufort.github.io/github-page/",
   "scripts": {
     "start": "vite",
     "dev": "vite",
