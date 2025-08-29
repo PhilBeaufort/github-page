@@ -1,10 +1,11 @@
 {
-  "name": "cv",
+  "name": "github-page",
   "private": true,
   "version": "1.0.0",
   "type": "module",
-  "homepage": "https://philbeaufort.github.io/cv/",
+  "homepage": "https://domain/repo/",
   "scripts": {
+    "start": "vite",
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
